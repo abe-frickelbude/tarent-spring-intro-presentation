@@ -14,4 +14,4 @@
 
 Note:
 
-- Embedded systems / constrained resources - Java won't win any speed records anyway, but Spring will make it even a bit worse
+* Embedded systems / constrained resources - Java won't win any speed records anyway, but Spring will make it even a bit worse

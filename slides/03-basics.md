@@ -8,8 +8,7 @@
 * Provides basic tools
 * Additional modules provide specific functionality
   
-<!--speaker notes -->
-
 Note:
-- Tell a few basics here
-- Don't go into details!
+
+* Tell a few basics here
+* Don't go into details!

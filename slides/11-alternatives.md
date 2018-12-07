@@ -12,12 +12,12 @@
 
 Note:
 
-- Talk about comparable Java frameworks
-- Talk about alternative solutions in other languages
-- Talk about simple DI alternatives
-- Google Guice
-- MicroNaut
-- Explain Dagger's unusual approach to DI (i.e. completely compile-time)
-- Mention that there frameworks provide no other facilities apart from actual DI
-- Java Spark (not to be confused with Apache Spark)
-- Jooby
+* Talk about comparable Java frameworks
+* Talk about alternative solutions in other languages
+* Talk about simple DI alternatives
+* Google Guice
+* MicroNaut
+* Explain Dagger's unusual approach to DI (i.e. completely compile-time)
+* Mention that there frameworks provide no other facilities apart from actual DI
+* Java Spark (not to be confused with Apache Spark)
+* Jooby

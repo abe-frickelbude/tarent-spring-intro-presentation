@@ -4,6 +4,7 @@
 ### Use cases
 
 ##### Good choice if:
+
 * Need to develop quickly
 * Care about code simplicity & testability
 * Care about knowledge base and support
@@ -13,6 +14,6 @@
 
 Note:
 
-- Support -  Large user base on Stackoverflow, good support from Pivotal
-- Startup time - can be high due to signification one-time initialization costs (DI container, etc.)
-- Binary size - application can easily grow to several 100s of MB
+* Support -  Large user base on Stackoverflow, good support from Pivotal
+* Startup time - can be high due to significant one-time initialization costs (DI container, etc.)
+* Binary size - application can easily grow to several 100s of MB

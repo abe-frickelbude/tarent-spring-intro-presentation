@@ -12,8 +12,8 @@
 
 Note:
 
-- Explain how ExpressJS can be used to set up a simple, compact microservice
-- Explain some advantages of the JS-based approach 
-(Very fast VM due to V8 in NodeJS, simple programming model etc.)
-- Additional advantage: drastically reduced app startup times
-and potentially lower memory requirements, potentially simpler deployment
+* Explain how ExpressJS can be used to set up a simple, compact microservice
+* Explain some advantages of the JS-based approach 
+  (Very fast VM due to V8 in NodeJS, simple programming model etc.)
+* Additional advantage: drastically reduced app startup times
+  and potentially lower memory requirements, potentially simpler deployment
